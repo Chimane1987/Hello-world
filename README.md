@@ -38,33 +38,28 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+- [Understand the concept of version control](#about-project)
+  
+- [Follow GitHub flow.](#getting-started)
+  
+- [Open pull requests in GitHub](#authors)
+
+- [Write descriptive, easy to understand commit messages](#future-features)
+
+- [Write short, detailed, easy to understand descriptions of pull requests.](#contributing)
+
+- [Write a descriptive and easy to understand README in business English for every project submitted](#support)
+
+- [Demonstrate an ability to submit a project for code review.](#acknowledgements)
+
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello Microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> In this project, I will set up a "Hello world" repository. My goal here is to master all of the tools and best practices you learned about in previous steps
 
-**[your_project__name]** is a...
+**[Hello Microverse]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
