@@ -102,7 +102,7 @@ To get a local copy up and running, follow these steps.
 
 ### Install
 
-Set-up linters in your local env
+Set up linters in your local env
 Note: The npm package manager is going to create a node_modules directory to install all of your dependencies. You shouldn't commit that directory. To avoid that, you can create a .gitignore file and add node_modules to it:
 
 Webhint
