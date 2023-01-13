@@ -13,7 +13,7 @@
   
 - [Follow GitHub flow.](#getting-started)
   
-- [Open pull requests in GitHub](#authors)
+- [Open pull request in GitHub](#authors)
 
 - [Write descriptive, easy to understand commit messages](#future-features)
 
